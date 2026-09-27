@@ -8,6 +8,7 @@
 
 [![Wardon](https://img.shields.io/badge/Proje-Wardon-22d3ee?style=for-the-badge)](https://wardon.net)
 [![Siber Güvenlik](https://img.shields.io/badge/Alan-Siber%20Güvenlik-34d399?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkant3)
 
 </div>
 
@@ -43,6 +44,9 @@ Bulut yok, hesap yok, veri toplama yok — her şey kullanıcının bilgisayarı
 
 <div align="center">
 
-📬 **İletişim:** [destek@wardon.net](mailto:destek@wardon.net) · 🌐 [wardon.net](https://wardon.net)
+📬 **İletişim:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FurkanT--03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkant3)
+[![GitHub](https://img.shields.io/badge/GitHub-FurkanT--03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FurkanT-03)
+[![Site](https://img.shields.io/badge/wardon.net-22d3ee?style=for-the-badge)](https://wardon.net)
 
 </div>
