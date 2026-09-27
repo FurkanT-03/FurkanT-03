@@ -1,6 +1,6 @@
 <div align="center">
 
-# Merhaba, ben Furkan 👋
+# Merhaba, ben Furkan Tarazi 👋
 
 ### 🎓 Siber Güvenlik Öğrencisi & 🛡️ Ürün Geliştirici
 
@@ -32,7 +32,7 @@ Bulut yok, hesap yok, veri toplama yok — her şey kullanıcının bilgisayarı
 
 ## 🎓 Şu an ne yapıyorum?
 
-- 📚 **Siber güvenlik** eğitimi alıyorum
+- 📚 **Siber güvenlik** eğitimi alıyorum — *Cyprus International University*
 - 🛠️ Gerçek projelerle öğrendiklerimi pekiştiriyorum
 - 🌱 Ürün geliştirme, sistem güvenliği ve gizlilik odaklı yazılım
 
@@ -45,7 +45,7 @@ Bulut yok, hesap yok, veri toplama yok — her şey kullanıcının bilgisayarı
 <div align="center">
 
 📬 **İletişim:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FurkanT--03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkant3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Furkan%20Tarazi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkant3)
 [![GitHub](https://img.shields.io/badge/GitHub-FurkanT--03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FurkanT-03)
 [![Site](https://img.shields.io/badge/wardon.net-22d3ee?style=for-the-badge)](https://wardon.net)
 
